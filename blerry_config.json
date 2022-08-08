@@ -1,0 +1,5 @@
+{ "devices": {
+"A4C138897451":{"model":"ATCpvvx","alias":"office_humidity"},
+"A4C138B30968":{"model":"ATCpvvx","alias":"bathroom_humidity"},
+"A4C138BB54B5":{"model":"ATCpvvx","alias":"LivingRoom_Humidity"}
+} }
